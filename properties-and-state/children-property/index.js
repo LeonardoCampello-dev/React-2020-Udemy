@@ -1,0 +1,18 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
+import Button from "./Button";
+import Icon from "./Icon";
+
+function App() {
+    return (
+        <div>
+            <Button>
+                <Icon />
+                <p>Children special property</p>
+            </Button>
+        </div>
+    );
+}
+
+ReactDOM.render(<App />, document.querySelector("#root"));
