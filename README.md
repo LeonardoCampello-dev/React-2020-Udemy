@@ -29,7 +29,7 @@
     Introdução ✅
     Fundamentos ✅
     Estilização e recursos ✅
-    Propriedade e estado
+    Propriedade e estado ✅
     Renderização de componente
     Efeito colateral
     Formulário controlado
