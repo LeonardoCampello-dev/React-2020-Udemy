@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 import Square from "./Square/Square";
 
 function App() {
-    return <Square />;
+  return <Square />;
 }
 
 ReactDOM.render(<App />, document.querySelector("#root"));

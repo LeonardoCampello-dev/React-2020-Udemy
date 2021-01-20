@@ -30,7 +30,7 @@
     Fundamentos ✅
     Estilização e recursos ✅
     Propriedade e estado ✅
-    Renderização de componente
+    Renderização de componente ✅
     Efeito colateral
     Formulário controlado
     Validação e tratamento de dados

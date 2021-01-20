@@ -6,7 +6,7 @@ import Page from "./Page";
 import "./styles.css";
 
 function App() {
-    return <Page />;
+  return <Page />;
 }
 
 const rootElement = document.getElementById("root");

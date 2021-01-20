@@ -1,23 +1,22 @@
 body {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  
-    height: 100vh;
-  }
-  
-  .square {
-    width: 300px;
-    height: 300px;
-  }
-  
-  .circle {
-    width: 300px;
-    height: 300px;
-    border-radius: 50%;
-  }
-  
-  .color {
-    background-color: #b96f0e;
-  }
-  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 100vh;
+}
+
+.square {
+  width: 300px;
+  height: 300px;
+}
+
+.circle {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.color {
+  background-color: #b96f0e;
+}
