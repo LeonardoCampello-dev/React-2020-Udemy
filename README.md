@@ -31,7 +31,7 @@
     Estilização e recursos ✅
     Propriedade e estado ✅
     Renderização de componente ✅
-    Efeito colateral
+    Efeito colateral ✅
     Formulário controlado
     Validação e tratamento de dados
     Manipulação de lista
@@ -43,11 +43,10 @@
 
 ### Bônus 🤯
 
-    Introdução à GraphQL 
-    Sintaxe da GraphQL 
+    Introdução à GraphQL
+    Sintaxe da GraphQL
     Cliente GraphQL com Apollo
     Fundamentos Next
     Pré-renderização de páginas
     Rotas dinâmicas
     Gerenciamento projeto na Vercel
- 
