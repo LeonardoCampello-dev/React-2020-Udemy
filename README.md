@@ -32,7 +32,7 @@
     Propriedade e estado ✅
     Renderização de componente ✅
     Efeito colateral ✅
-    Formulário controlado
+    Formulário controlado ✅
     Validação e tratamento de dados
     Manipulação de lista
     Gerenciamento de estado
