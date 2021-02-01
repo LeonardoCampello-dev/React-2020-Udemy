@@ -33,7 +33,7 @@
     Renderização de componente ✅
     Efeito colateral ✅
     Formulário controlado ✅
-    Validação e tratamento de dados
+    Validação e tratamento de dados ✅
     Manipulação de lista
     Gerenciamento de estado
     Estado global
